@@ -1,4 +1,4 @@
-# Avenger-PCA-Facia;-Recognition
+# Avenger-PCA-Facial-Recognition
  
 Image Classification with PCA and SVM
 =====================================
