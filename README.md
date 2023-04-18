@@ -62,4 +62,4 @@ The accuracy of the model can be further improved by experimenting with differen
 Credits
 -------
 
-The Avengers dataset used in this code is obtained from <https://www.kaggle.com/datasets/rawatjitesh/avengers-face-recognition>, and the code is adapted from various sources and tutorials on PCA and SVM in image classification. The code for this program was written by [Deepak](https://github.com/Deepak-0801)
+The Avengers dataset used in this code is obtained from [Deepak](https://www.kaggle.com/datasets/rawatjitesh/avengers-face-recognition), and the code is adapted from various sources and tutorials on PCA and SVM in image classification. The code for this program was written by [Deepak](https://github.com/Deepak-0801)
